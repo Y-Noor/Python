@@ -7,3 +7,5 @@ To do:
 ---> Implement encryption algorithm for the passwords before storing them in the file.
 
 ---> Create a GUI for the form. 
+
+--> Use regex to validate email.
