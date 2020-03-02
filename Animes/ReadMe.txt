@@ -13,3 +13,6 @@ TO DO:
 --->Use an online form(google form) to subscribe or unsubscribe to service or animes.
 
 --->Implement a way to take anime suggestions from users for later implementation
+
+
+For discretion I have only included my own email in the mailing list
