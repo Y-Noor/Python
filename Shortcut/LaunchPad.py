@@ -2,7 +2,6 @@
 def launchPad():
     import subprocess
     import datetime
-    import os
     #fetch current time
     now = datetime.datetime.now()
 
@@ -30,6 +29,7 @@ def launchPad():
         launchPad()
 
 def sys(target):
+    import os
     if target == 'shutdown':
         os.system("shutdown /s /t 1")
     elif target == 'restart':
