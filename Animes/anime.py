@@ -4,7 +4,7 @@ from pathlib import Path
 
 def BNHAGGA():
     #mailing list for this specific anime
-    mailing_list = ['noor_yadallee@hotmail.com', '19950521@student.curtin.edu.au', 'dylanhownee@gmail.com']
+    mailing_list = ['noor_yadallee@hotmail.com']
 
     #link to website that will be scraped
     BNHA = 'https://www12.gogoanime.io/category/boku-no-hero-academia-4th-season'
@@ -44,7 +44,7 @@ def BNHAGGA():
 
 def haikyuuGGA():
     #mailing list for this specific anime
-    mailing_list = ['noor_yadallee@hotmail.com','yardanjumoorty@gmail.com', 'brianlitchung@gmail.com', 'dylanhownee@gmail.com']
+    mailing_list = ['noor_yadallee@hotmail.com']
 
     #link to website that will be scraped
     haikyuu = 'https://www15.gogoanime.io/category/haikyuu-to-the-top'
@@ -84,7 +84,7 @@ def haikyuuGGA():
 
 def dorohedoroGGA():
     #mailing list for this specific anime
-    mailing_list = ['noor_yadallee@hotmail.com', 'jackatlas0707@gmail.com']
+    mailing_list = ['noor_yadallee@hotmail.com']
 
     #link to website that will be scraped
     dorohedoro = 'https://www15.gogoanime.io/category/dorohedoro'
