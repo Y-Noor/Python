@@ -1,8 +1,7 @@
-NEW ANIME EPISODE CHECKER (V1)
-
 Made to run on a raspbery pi 24 hours a day
 
 Checks twice a day if new anime episodes are out and sends out notifications to a mailing list
+
 
 TO DO:
 
@@ -16,3 +15,10 @@ TO DO:
 
 
 For discretion I have only included my own email in the mailing list
+
+
+
+NEW ANIME EPISODE CHECKER (V2)
+
+Improvements from last version:
+---> Code is DRY. Previously redundant blocks of code were present
