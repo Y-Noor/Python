@@ -34,7 +34,7 @@ def mail(name, link, current, mailing_list):
         smtp.ehlo()
 
         #login into mail server
-        smtp.login('anime.manga.notifs@gmail.com', 'qwErty123!')
+        smtp.login('email', 'pw')
 
         #email
         subject = 'New episode of {} is out'.format(name)
